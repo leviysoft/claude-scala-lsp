@@ -1,6 +1,6 @@
-# CLAUDE SCALA LSP
+# CLAUDE LSPs
 
-## HOW TO DO THINGS
+## HOW TO SCALA
 
 First of all, install [coursier](https://get-coursier.io/docs/cli-installation)
 
