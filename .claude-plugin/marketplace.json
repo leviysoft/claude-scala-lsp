@@ -4,13 +4,13 @@
     "name": "LeviySoft",
     "email": "leviysoft@gmail.com"
   },
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
   "plugins": [
     {
       "name": "claude-scala-lsp",
-      "source": {
-        "source": "github",
-        "repo": "leviysoft/claude-scala-lsp"
-      },
+      "source": "./scala-lsp",
       "description": "No-bullshit Scala LSP plugin for Claude"
     }
   ]
