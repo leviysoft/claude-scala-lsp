@@ -11,7 +11,7 @@
         "source": "github",
         "repo": "leviysoft/claude-scala-lsp"
       },
-      "description": "No-bullshit Scala LSP pluginf for Claude"
+      "description": "No-bullshit Scala LSP plugin for Claude"
     }
   ]
 }
