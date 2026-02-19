@@ -11,7 +11,7 @@ Then:
 Don't forget to add `export ENABLE_LSP_TOOL=1`
 
     /plugin marketplace add leviysoft/claude-lsp
-    /plugin install claude-scala-lsp@leviysoft
+    /plugin install scala-lsp@leviysoft
 
 Coursier does not perform automatical updates, so periodically call
 

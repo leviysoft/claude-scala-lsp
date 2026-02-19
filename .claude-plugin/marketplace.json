@@ -9,8 +9,8 @@
   },
   "plugins": [
     {
-      "name": "claude-scala-lsp",
-      "source": "./scala-lsp",
+      "name": "scala-lsp",
+      "source": "scala-lsp",
       "description": "No-bullshit Scala LSP plugin for Claude"
     }
   ]

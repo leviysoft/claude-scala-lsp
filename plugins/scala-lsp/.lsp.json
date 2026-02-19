@@ -4,8 +4,7 @@
     "args": [],
     "extensionToLanguage": {
       ".scala": "scala",
-      ".sc": "scala",
-      ".sbt": "sbt"
+      ".sc": "scala"
     },
     "transport": "stdio",
     "initializationOptions": {},
