@@ -1,0 +1,8 @@
+{
+  "name": "haskell-lsp",
+  "description": "Haskell LSP integration for Claude",
+  "version": "1.0.0",
+  "author": {
+    "name": "Daniel Slapman"
+  }
+}

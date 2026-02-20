@@ -9,6 +9,11 @@
       "name": "scala-lsp",
       "source": "./scala-lsp",
       "description": "No-bullshit Scala LSP plugin for Claude"
+    },
+    {
+      "name": "haskell-lsp",
+      "source": "./haskell-lsp",
+      "description": "No-bullshit Haskell LSP plugin for Claude"
     }
   ]
 }
