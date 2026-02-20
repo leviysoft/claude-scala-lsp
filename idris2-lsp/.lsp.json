@@ -1,0 +1,14 @@
+{
+  "idris2": {
+    "command": "idris2-lsp",
+    "args": [],
+    "extensionToLanguage": {
+      ".idr": "idris2",
+      ".lidr": "idris2"
+    },
+    "transport": "stdio",
+    "initializationOptions": {},
+    "settings": {},
+    "maxRestarts": 3
+  }
+}

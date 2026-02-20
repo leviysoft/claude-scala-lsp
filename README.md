@@ -25,3 +25,16 @@ Don't forget to add `export ENABLE_LSP_TOOL=1`
 
     /plugin marketplace add leviysoft/claude-lsp
     /plugin install haskell-lsp@leviysoft
+
+## HOW TO IDRIS2
+
+First of all, install [pack](https://github.com/stefan-hoeck/idris2-pack/blob/main/INSTALL.md)
+
+Then:
+
+    pack install-app idris2-lsp
+
+Don't forget to add `export ENABLE_LSP_TOOL=1`
+
+    /plugin marketplace add leviysoft/claude-lsp
+    /plugin install idris2-lsp@leviysoft

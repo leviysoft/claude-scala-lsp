@@ -14,6 +14,11 @@
       "name": "haskell-lsp",
       "source": "./haskell-lsp",
       "description": "No-bullshit Haskell LSP plugin for Claude"
+    },
+    {
+      "name": "idris2-lsp",
+      "source": "./idris2-lsp",
+      "description": "No-bullshit Idris2 LSP plugin for Claude"
     }
   ]
 }
