@@ -16,3 +16,12 @@ Don't forget to add `export ENABLE_LSP_TOOL=1`
 Coursier does not perform automatical updates, so periodically call
 
     cs update
+
+## HOW TO HASKELL
+
+Install [haskell-language-server](https://haskell-language-server.readthedocs.io/en/latest/installation.html)
+
+Don't forget to add `export ENABLE_LSP_TOOL=1`
+
+    /plugin marketplace add leviysoft/claude-lsp
+    /plugin install haskell-lsp@leviysoft
